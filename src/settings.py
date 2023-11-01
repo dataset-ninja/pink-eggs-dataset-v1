@@ -55,7 +55,7 @@ PAPER: Optional[Union[str, List[str], Dict[str, str]]] = ["https://arxiv.org/abs
 BLOGPOST: Optional[Union[str, List[str], Dict[str, str]]] = None
 REPOSITORY: Optional[Union[str, List[str], Dict[str, str]]] = None
 
-CITATION_URL: Optional[str] = ["https://arxiv.org/abs/2305.09302"]
+CITATION_URL: Optional[str] = "https://arxiv.org/abs/2305.09302"
 AUTHORS: Optional[List[str]] = ["Di Xu", "Yang Zhao", "Xiang Hao", "Xin Meng"]
 AUTHORS_CONTACTS: Optional[List[str]] = ["xudidee@163.com"]
 
