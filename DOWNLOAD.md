@@ -1,6 +1,6 @@
 Dataset **Pink-Eggs Dataset V1** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://www.dropbox.com/scl/fi/1szu6uej4n69kpga0ff6i/pink-eggs-dataset-v1-DatasetNinja.tar?rlkey=cpbvf6hwvg2b9pl81v4o43qhz&dl=1)
+ [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogImZzOi8vYXNzZXRzLzI4NjlfUGluay1FZ2dzIERhdGFzZXQgVjEvcGluay1lZ2dzLWRhdGFzZXQtdjEtRGF0YXNldE5pbmphLnRhciIsICJzaWciOiAicmJrTFhoZUlaN1d3UlJXQk1uQmJWNTBuV1NVWk1HYkFwUjlHZ0NJbll2RT0ifQ==)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
